@@ -1,0 +1,5 @@
+let nome = "Neyleia Priscila"
+let email = "neyleia16@hotmail.com"
+let profissão = "administradora"
+let idade = "28"
+let lugar = "Nova York"
