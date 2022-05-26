@@ -10,7 +10,7 @@ let codeTotal = 6110
 // Diferente de zero
 // Sempre retornará "true"
 // Para verificar se codeTotal é
-// Maior ou igual a 6110, você deve fazer da seguinte
+// Menor ou igual a 6110, você deve fazer da seguinte
 // Maneira: if(codeTotal <= 6110) (...)
 
 if (codeTotal) {
