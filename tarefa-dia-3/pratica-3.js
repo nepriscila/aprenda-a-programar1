@@ -4,6 +4,15 @@ console.log(code.length);
 
 let codeTotal = 6110
 
+
+// Observação importante:
+// Quando você utiliza o if em um valor
+// Diferente de zero
+// Sempre retornará "true"
+// Para verificar se codeTotal é
+// Menor ou igual a 6110, você deve fazer da seguinte
+// Maneira: if(codeTotal <= 6110) (...)
+
 if (codeTotal) {
     console.log("Verdade! O valor", codeTotal, "é menor ou igual que 6110");
 
